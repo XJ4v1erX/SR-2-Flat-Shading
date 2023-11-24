@@ -2,15 +2,24 @@
 
 Este proyecto, titulado "SR-2-Flat-Shading", es una implementación de un renderizador por software que puede cargar y renderizar modelos 3D en tonalidades de gris usando la técnica de Flat Shading. Este método considera una fuente de luz uniforme y sombrea cada triángulo de un objeto con un solo color, lo que resulta en una apariencia distintiva y estilizada.
 
-## Imágenes
+## Imágenes y GIF
 <table>
   <tr>
-    <td><img src="Spaceship.bmp" width="200" alt="Vista del Modelo"/></td>
-    <td><img src="Spaceship1.bmp" width="200" alt="Segunda vista del Modelo"/></td>
-  </tr>
-  <tr>
-    <td><img src="Spaceship2.bmp" width="200" alt="Otra Vista del Modelo"/></td>
-    <td><img src="Spaceship3.bmp" width="200" alt="Vista Diferente del Modelo"/></td>
+    <td>
+      <table>
+        <tr>
+          <td><img src="Spaceship1.bmp" width="200" alt="Vista del Modelo"/></td>
+          <td><img src="Spaceship.bmp" width="200" alt="Segunda Vista del Modelo"/></td>
+        </tr>
+        <tr>
+          <td><img src="Spaceship2.bmp" width="200" alt="Otra Vista del Modelo"/></td>
+          <td><img src="Spaceship3.bmp" width="200" alt="Vista Diferente del Modelo"/></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <img src="SpaceX.gif" width="315" alt="GIF Demostrativo"/>
+    </td>
   </tr>
 </table>
 

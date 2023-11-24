@@ -18,7 +18,7 @@ Este proyecto, titulado "SR-2-Flat-Shading", es una implementación de un render
       </table>
     </td>
     <td>
-      <img src="SpaceX.gif" width="350" alt="GIF Demostrativo"/>
+      <img src="SpaceX.gif" width="315" alt="GIF Demostrativo"/>
     </td>
   </tr>
 </table>

@@ -8,8 +8,8 @@ Este proyecto, titulado "SR-2-Flat-Shading", es una implementación de un render
     <td>
       <table>
         <tr>
-          <td><img src="Spaceship.bmp" width="200" alt="Vista del Modelo"/></td>
-          <td><img src="Spaceship1.bmp" width="200" alt="Segunda Vista del Modelo"/></td>
+          <td><img src="Spaceship1.bmp" width="200" alt="Vista del Modelo"/></td>
+          <td><img src="Spaceship.bmp" width="200" alt="Segunda Vista del Modelo"/></td>
         </tr>
         <tr>
           <td><img src="Spaceship2.bmp" width="200" alt="Otra Vista del Modelo"/></td>
